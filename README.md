@@ -1,16 +1,16 @@
 # EZFNFIX
-A fix for the DLL EZFN Error 
+A fix for EZFN Error's
 
 ## Installation 
 * **[Download](https://github.com/MAR0002/EZFNFIX/releases/download/3.00/EZFN.zip)** the latest version.
 * **Unzip the Folder** to somewhere on your PC and launch "EZFNLauncher.exe"
 * You now go to the private server tab and start the server **make sure epic games is not running**
-* **If you need any help [Join The Discord](https://ezfn.dev/discord)
-* For settings and other changes Go to The [Dashbord] (https://dashboard.ezfn.dev/private_server)
+* **If you need any help** [Join The Discord](https://ezfn.dev/discord)
+* For settings and other changes Go to The [Dashbord](https://dashboard.ezfn.dev/private_server)
   
 ## Update Log
-**3.00** - Fixed login screen poping up and support for season 7
-**2.10** - fixed Dll Erorr
+### **3.00** - Fixed login screen poping up and support for season 7
+### **2.10** - fixed Dll Erorr
 
 ## Features
 ✔️ Access all cosmetics<br>
